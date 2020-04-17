@@ -1,0 +1,15 @@
+{
+  "name": "api-sms-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Breno  <progbrcaua@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
