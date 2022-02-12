@@ -1,46 +1,44 @@
-                                                                                            
-<h1 align="center">Send SMS with NodeJS</h1>
-<p align="center" aria-label="Versão do Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.14.1">
-    <img src="https://img.shields.io/badge/node.js@lts-12.14.1-informational?logo=Node.JS"></img>
-    <img src="https://img.shields.io/github/repo-size/brcaua/api-sms-node"></img>
-    <img src="https://img.shields.io/github/contributors/brcaua/api-sms-node"></img>
+<h1 align="center">
+iCar API
+</h1>
+
+<p align="center">A API for send SMS to Gmail, Outlook or Yahoo accounts, developed in Node.js.</p>
+
+<p align="center">
+  <a href="https://github.com/Rocketseat/youtube-clone-twitter/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/rocketseat/youtube-clone-twitter?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/github/license/brcaua/api-sms-node?color=%236633cc&logo=mit" alt="License">
+  </a>
 </p>
 
+<hr>
 
-## Pré requisitos
+## Participants
 
-Antes de começar, você deve ter os seguintes requisitos:
-<!--- These are just example requirements. Add, duplicate or remove as required --->
-* Você ter instalado a última versão do `node`
-* Você ter uma máquina `Windows/Linux/Mac`.
-* Você ter instalado o editor de código `VSCode` (não é obrigatório).
+[<img src="https://avatars.githubusercontent.com/u/46445777?v=4" width="75px;"/>](https://github.com/brcaua)
 
-## :rocket: Tecnologias
+[Breno Lima](https://github.com/brcaua)
 
-[Node.js](https://nodejs.org/en/)
-| [Javascript](https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript)
+## Techs
 
+- [x] Node.js
+- [x] TypeScript
+- [x] Insomnia 
 
-## Instructions to use the project
+## Ideas to implement
 
-  ### Running the project
-  Clonando o repositório (Cloning the repository)
-```sh
-  $ git clone git@github.com/brcaua/doesangue.git
-```
-  Abrindo a pasta do projeto (Opening the project folder)
-```
-  $ cd api-sms-node
-```
-  Rodando o Node no projeto
-```
-  $ npm init -y
-```
-  Iniciando o projeto no VSCode (Opening the project in VSCode)
-```
-  $ code .
-```
-## :memo: Licença
+- [ ] Create an interface using React.js (e.g. Initial page)
+- [ ] Personal back-end integration:
+  - [ ] Possible sends files (csv, txt, pdf, docx)
+  - [ ] And more...
 
-#### Esse projeto está sob a licença [MIT](./LICENSE)
+## Usage
+1. Clone this repo `$ git clone git@github.com/brcaua/api-sms-node.git`
+2. Run `npm install` or `yarn install`.<br />
+3. Run `yarn start`.<br />
 
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
