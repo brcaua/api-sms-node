@@ -1,5 +1,5 @@
 <h1 align="center">
-iCar API
+SMS API
 </h1>
 
 <p align="center">A API for send SMS to Gmail, Outlook or Yahoo accounts, developed in Node.js.</p>
